@@ -1,0 +1,5 @@
+defdef quadrado_numero(num):
+    if num >= 0:
+        print("Quadrado:", num * num)
+    else:
+        print("Número negativo, não será calculado.")
